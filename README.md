@@ -1,2 +1,2 @@
-# IHL-S3-Sample-Site
-For use during Cloud IHL during S3 Buckets session.
+# IHL-S3-Amplify-Site
+For use during Cloud IHL during Amplify session.
